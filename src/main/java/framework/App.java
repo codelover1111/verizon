@@ -1,4 +1,4 @@
-package com.API.COM;
+package framework;
 
 /**
  * Hello world!

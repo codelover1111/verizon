@@ -5,7 +5,7 @@
     <classes>
       <class name="com.API.COM.Bother">
         <methods>
-          <include name="test2"/>
+          <include name="testO"/>
         </methods>
       </class> <!-- com.API.COM.Bother -->
     </classes>
